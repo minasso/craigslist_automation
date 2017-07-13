@@ -1,0 +1,30 @@
+binghamton.craigslist.org/">binghamton
+boston.craigslist.org/">boston
+catskills.craigslist.org/">catskills
+cnj.craigslist.org/">central nj
+newlondon.craigslist.org/">eastern ct
+elmira.craigslist.org/">elmira
+fingerlakes.craigslist.org/">finger lakes
+glensfalls.craigslist.org/">glens falls
+hartford.craigslist.org/">hartford
+hudsonvalley.craigslist.org/">hudson valley
+ithaca.craigslist.org/">ithaca
+longisland.craigslist.org/">long island
+nh.craigslist.org/">new hampshire
+newhaven.craigslist.org/">new haven
+newyork.craigslist.org/">new york
+newjersey.craigslist.org/">north jersey
+nwct.craigslist.org/">northwest ct
+oneonta.craigslist.org/">oneonta
+plattsburgh.craigslist.org/">plattsburgh
+poconos.craigslist.org/">poconos
+potsdam.craigslist.org/">potsdam-massena
+providence.craigslist.org/">rhode island
+scranton.craigslist.org/">scranton
+southcoast.craigslist.org/">south coast
+syracuse.craigslist.org/">syracuse
+utica.craigslist.org/">utica
+vermont.craigslist.org/">vermont
+watertown.craigslist.org/">watertown
+westernmass.craigslist.org/">western mass
+worcester.craigslist.org/">worcester
